@@ -57,6 +57,8 @@ function calc(x) {
 
 ### [Cat and mouse 2d version 7 kyu](https://www.codewars.com/kata/cat-and-mouse-2d-version/)
 
+https://www.codewars.com/kata/reviews/57f8a441e7649217ed000039/groups/604a24edd224ba0001e440d0
+
 ### [Duplicate-encoder 6 kyu](https://www.codewars.com/kata/duplicate-encoder)
 
 _(can't get link)_
@@ -166,8 +168,6 @@ https://www.codewars.com/kata/reviews/5f91ab3be4dc32000159c9bc/groups/6049c402c3
 
 ### [Simple validation of a username with regex 8 kyu](https://www.codewars.com/kata/simple-validation-of-a-username-with-regex)
 
----
+https://www.codewars.com/kata/reviews/56a3f2013043738c06000019/groups/6049dd19fd2be600015709d2
 
 ### [Validate my password 6 kyu](https://www.codewars.com/kata/validate-my-password)
-
----
