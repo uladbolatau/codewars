@@ -171,3 +171,5 @@ https://www.codewars.com/kata/reviews/5f91ab3be4dc32000159c9bc/groups/6049c402c3
 https://www.codewars.com/kata/reviews/56a3f2013043738c06000019/groups/6049dd19fd2be600015709d2
 
 ### [Validate my password 6 kyu](https://www.codewars.com/kata/validate-my-password)
+
+https://www.codewars.com/kata/reviews/59c014cd41a6c50baf003296/groups/604f0a81f773e50001532a52
